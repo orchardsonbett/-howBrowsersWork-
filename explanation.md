@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+<html>
 <html lang="en">
   <head>
   <meta charset="utf-8">
-  <title>How Browsers Work</title>
+  <title>HOW BROWSERS WORK</title>
   <a href="http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"></a>
   </head>
   <body>
